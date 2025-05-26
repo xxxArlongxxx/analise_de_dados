@@ -1,3 +1,3 @@
-# Meu primeiro reposítorio de Python.
+# Calculadora de horas de parada de máquina.
 
-Essa linha eu alterei vendo o vídeo do Guanabara
+
