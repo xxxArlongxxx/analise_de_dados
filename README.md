@@ -1,3 +1,3 @@
-# Calculadora de horas de parada de máquina.
+# Projetos feitos com Python utilizando a biblioteca Pyautogui.
 
-Esse script é de uma calculadora de duração de paradas, você deve se atentar a como digitar as informações.
+Esse reposíório foi criado para que pudesse praticar minhas habiliades enquanto realizo o aprendizado do Git e GitHub.
